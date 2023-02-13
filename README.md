@@ -18,6 +18,8 @@ As a Toronto newcomer coming from the UK (where public transport is well establi
 
 Raw data source: [City of Toronto: OPEN DATA CATALOGUE](https://open.toronto.ca/catalogue/?topics=Transportation&owner_division=Toronto%20Transit%20Commission)
 
+[](https://github.com/JeffersonGalvez/Jeff_Data/blob/main/images/TTC_SubwayStreetcarMap_2021-11.png)
+
 
 # [European engine trend analysis 2001-2019](https://github.com/JeffersonGalvez/GDAC_capstone/blob/main/European%20engine%20trend%20analysis%202001-2019.pdf)
 My first personal data analytics project, completed as my Google Data Analytics Certificate capstone project. Here, I utilize my skills in:
@@ -32,3 +34,5 @@ Influenced by my family with a passion for automobiles and a genuine interst on 
 - Perform longituidnal data anlysis, discover trends of product popularity and research possible causes of data observations
 - Produce insightful data visuals to effectively communicate findings
 - Report all stages of the data project using RMarkdown
+
+[](https://github.com/JeffersonGalvez/Jeff_Data/blob/main/images/000010.png)
