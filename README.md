@@ -1,7 +1,3 @@
-# Jefferson_Portfolio
-Welcome/Bienvenue, to my portfolio! Here is where I will be hosting all my data projects and endeavours.
-
-
 # [TTC_Delays_Analysis_2022](https://github.com/JeffersonGalvez/TTC_Delays_Analysis_2022)
 A personal data analytics project, heavily utlizing MySQL for data processing, cleaning and exploration. Employed Tableau to develop an insightful dashboard.
 
