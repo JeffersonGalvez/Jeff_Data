@@ -3,8 +3,8 @@ Thank you for stopping by, if you have any queries or would like to discuss my w
 - [LinkedIn](https://www.linkedin.com/in/jefferson-galvez/)
 - Email: jefferson.galvez@outook.com
 
-# [TTC_Delays_Analysis_2022](https://github.com/JeffersonGalvez/TTC_Delays_Analysis_2022)
-A personal data analytics project, heavily utlizing MySQL for data processing, cleaning and exploration. Employed Tableau to develop an insightful dashboard.
+# TTC Delays Analysis 2022
+A personal data analytics [project](https://github.com/JeffersonGalvez/TTC_Delays_Analysis_2022), heavily utlizing MySQL for data processing, cleaning and exploration. Employed Tableau to develop an insightful [dashboard](https://public.tableau.com/app/profile/jefferson.galvez/viz/TTCDelaysAnalysis2022/TTCDelaysAnalysis2022).
 
 ## Project objectives:
 - Process and clean raw public secondary sourced data effectively, creating and customizing a database fit for project use
@@ -21,8 +21,8 @@ Raw data source: [City of Toronto: OPEN DATA CATALOGUE](https://open.toronto.ca/
 ![](https://raw.githubusercontent.com/JeffersonGalvez/Jeff_Data/main/images/TTC_SubwayStreetcarMap_2021-11.png)
 
 
-# [European engine trend analysis 2001-2019](https://github.com/JeffersonGalvez/GDAC_capstone/blob/main/European%20engine%20trend%20analysis%202001-2019.pdf)
-My first personal data analytics project, completed as my Google Data Analytics Certificate capstone project. Here, I utilize my skills in:
+# European engine trend analysis 2001-2019
+My first personal data analytics [project](https://github.com/JeffersonGalvez/GDAC_capstone/blob/main/European%20engine%20trend%20analysis%202001-2019.pdf), completed as my Google Data Analytics Certificate capstone project. Here, I utilize my skills in:
 - SQL (MySQL Workbench)
 - R (R Studio)
 - Google Sheets
