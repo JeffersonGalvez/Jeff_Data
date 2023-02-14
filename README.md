@@ -35,4 +35,4 @@ Influenced by my family with a passion for automobiles and a genuine interst on 
 - Produce insightful data visuals to effectively communicate findings
 - Report all stages of the data project using RMarkdown
 
-![](https://github.com/JeffersonGalvez/Jeff_Data/blob/main/images/000010.png?raw=true)
+![](https://github.com/JeffersonGalvez/Jeff_Data/blob/main/images/cars.jpeg?raw=true)
